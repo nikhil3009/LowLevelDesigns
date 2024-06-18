@@ -1,0 +1,6 @@
+As we can see, the vehicle class is being inherited by jeep,sports,passenger vehicle in sports
+and Jeep wanted a common capability which is not present in the parent class
+as it is not present we have written the same functionality in both the classes again separately
+ so this is duplication of code and if some other classes require
+same functionality again we have to implement the same method
+which is not scalable so this is the reason we need strategy design pattern
