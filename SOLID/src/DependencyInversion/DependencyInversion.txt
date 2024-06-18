@@ -1,0 +1,5 @@
+
+
+This principle says A class should not directly  depend on concerete class
+instead it should depend on interface so that it will have access and can have the capability of accepting the objects
+of all the classes that are implementing interface.
