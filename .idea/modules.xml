@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" filepath="$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" filepath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/WithPattern/WithPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/WithPattern/WithPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/WithoutPattern/WithoutPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/WithoutPattern/WithoutPattern.iml" />

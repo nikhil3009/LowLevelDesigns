@@ -10,7 +10,7 @@ public MobileAlert(String emailId, StockObservable obj){
         sendAlert(userName,"Product is back to stock");
 
     }
-    public voud sendAlert(String userName, String mssg){
+    public void sendAlert(String userName, String mssg){
         System.out.println("mssg sent");
     }
 }
