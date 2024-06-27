@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
       <module fileurl="file://$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" filepath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodDesignPattern/TemplateMethodDesignPattern.iml" filepath="$PROJECT_DIR$/TemplateMethodDesignPattern/TemplateMethodDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/WithPattern/WithPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/WithPattern/WithPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/WithoutPattern/WithoutPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/WithoutPattern/WithoutPattern.iml" />
     </modules>
