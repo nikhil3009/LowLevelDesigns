@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" filepath="$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" filepath="$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" filepath="$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" />
