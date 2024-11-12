@@ -10,7 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterviewQuestions/InterviewQuestions.iml" filepath="$PROJECT_DIR$/InterviewQuestions/InterviewQuestions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggerDesign/LoggerDesign.iml" filepath="$PROJECT_DIR$/LoggerDesign/LoggerDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" filepath="$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationSystemUsingObserverDesignPattern/NotificationSystemUsingObserverDesignPattern.iml" filepath="$PROJECT_DIR$/NotificationSystemUsingObserverDesignPattern/NotificationSystemUsingObserverDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
