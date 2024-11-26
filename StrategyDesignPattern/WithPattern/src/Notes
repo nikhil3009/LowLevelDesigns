@@ -1,8 +1,0 @@
-With the strategy design patter, what we did is created an interface called Drivestrategy
- and it has drive method which are over ridden by two classes NormalStrategy and SportsStrategy which are two different
- drive styles and now we have a class called vehicle which don't have any method called drive. it just takes the child object
- and calls respective method by constructor injection where child passes the object of it's required strategy and parent created
- and calls the respective method so this way if any new class comes we just need to pass the required drivestrategy object or
- if any new drivestrategys are required we just implement them.
-
- so this way it is very scalable.
