@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" filepath="$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" filepath="$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" filepath="$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewQuestions/ElevatorSystem/ElevatorSystem.iml" filepath="$PROJECT_DIR$/InterviewQuestions/ElevatorSystem/ElevatorSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewQuestions/InterviewQuestions.iml" filepath="$PROJECT_DIR$/InterviewQuestions/InterviewQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoggerDesign/LoggerDesign.iml" filepath="$PROJECT_DIR$/LoggerDesign/LoggerDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" filepath="$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationSystemUsingObserverDesignPattern/NotificationSystemUsingObserverDesignPattern.iml" filepath="$PROJECT_DIR$/NotificationSystemUsingObserverDesignPattern/NotificationSystemUsingObserverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snakes_And_Ladders/Snakes_And_Ladders.iml" filepath="$PROJECT_DIR$/Snakes_And_Ladders/Snakes_And_Ladders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" filepath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/StrategyDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodDesignPattern/TemplateMethodDesignPattern.iml" filepath="$PROJECT_DIR$/TemplateMethodDesignPattern/TemplateMethodDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewQuestions/Tic-Tac-Toe/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/InterviewQuestions/Tic-Tac-Toe/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketBookingSystem/TicketBookingSystem.iml" filepath="$PROJECT_DIR$/TicketBookingSystem/TicketBookingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/WithPattern/WithPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/WithPattern/WithPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyDesignPattern/WithoutPattern/WithoutPattern.iml" filepath="$PROJECT_DIR$/StrategyDesignPattern/WithoutPattern/WithoutPattern.iml" />
+    </modules>
+  </component>
+</project>
