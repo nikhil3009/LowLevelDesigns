@@ -6,10 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" filepath="$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandDesignPattern/CommandDesignPattern.iml" filepath="$PROJECT_DIR$/CommandDesignPattern/CommandDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CouponsforShoppingCartDesign/CouponsforShoppingCartDesign.iml" filepath="$PROJECT_DIR$/CouponsforShoppingCartDesign/CouponsforShoppingCartDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" filepath="$PROJECT_DIR$/DecoratorDesignPattern/DecoratorDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterviewQuestions/ElevatorSystem/ElevatorSystem.iml" filepath="$PROJECT_DIR$/InterviewQuestions/ElevatorSystem/ElevatorSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/FactoryDesignPattern/FactoryDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileSystemDesignusingCompositePattern/FileSystemDesignusingCompositePattern.iml" filepath="$PROJECT_DIR$/FileSystemDesignusingCompositePattern/FileSystemDesignusingCompositePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterviewQuestions/InterviewQuestions.iml" filepath="$PROJECT_DIR$/InterviewQuestions/InterviewQuestions.iml" />
       <module fileurl="file://$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" filepath="$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD.iml" filepath="$PROJECT_DIR$/.idea/LLD.iml" />
