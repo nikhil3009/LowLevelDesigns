@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" filepath="$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" filepath="$PROJECT_DIR$/BuilderDesignPattern/BuilderDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorUsingCompositeDesignPattern/CalculatorUsingCompositeDesignPattern.iml" filepath="$PROJECT_DIR$/CalculatorUsingCompositeDesignPattern/CalculatorUsingCompositeDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" filepath="$PROJECT_DIR$/CarRentalSystem/CarRentalSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" filepath="$PROJECT_DIR$/ChainResponsibilityDesignPattern/ChainResponsibilityDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommandDesignPattern/CommandDesignPattern.iml" filepath="$PROJECT_DIR$/CommandDesignPattern/CommandDesignPattern.iml" />

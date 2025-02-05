@@ -1,4 +1,5 @@
-public class Main {
+public class Chain
+ {
     public static void main(String[] args) {
 
         LogProcessor obj = new InfoProcessor(new DebugProcessor(new ErrorProcessor(null)));

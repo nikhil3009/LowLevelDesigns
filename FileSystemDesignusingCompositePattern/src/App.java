@@ -1,9 +1,9 @@
-public class Main {
+public class App {
     public static void main(String[] args) {
 
         Directory movies = new Directory("topMovies");
         File bahubali = new File("Bahubali");
-        movies.add(movies);
+        movies.add(bahubali);
         Directory latestMovies = new Directory("LatestTopMovies");
         File obj1 = new File("LuckyBhaskar");
         File obj2 = new File("Pushpa");

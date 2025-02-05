@@ -6,8 +6,6 @@ import java.util.Scanner;
 public class TicTacToeGame {
 	Deque<Player> players;
 	Board gameBoard;
-	
-	
 	public void InitializeGame()
 	{
 		players = new LinkedList<>();
@@ -23,7 +21,6 @@ public class TicTacToeGame {
 		gameBoard = new Board(3);
 		
 	}
-	
 	public String startGame() {
 		boolean noWinner = true;
 		while(noWinner) {
@@ -54,8 +51,6 @@ public class TicTacToeGame {
 			if(isWinner) {
 				return playerTurn.name;
 			}
-			
-			
 		}
 		return "TIE";
 	}
