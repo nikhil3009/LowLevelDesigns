@@ -7,6 +7,7 @@ public class Theatre {
     String address;
     City city;
     List<Screen> screens;
+    List<Show> shows;
 
     public Theatre(int theatreId, String address, City city, List<Screen> screens, List<Show> shows) {
         this.theatreId = theatreId;
@@ -16,7 +17,6 @@ public class Theatre {
         this.shows = shows;
     }
 
-    List<Show> shows;
 
     public int getTheatreId() {
         return theatreId;

@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observable/Observable.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/src/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" filepath="$PROJECT_DIR$/ObserverDesignPattern/ObserverDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderManagementLikeAmazon/OrderManagementLikeAmazon.iml" filepath="$PROJECT_DIR$/OrderManagementLikeAmazon/OrderManagementLikeAmazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID/SOLID.iml" filepath="$PROJECT_DIR$/SOLID/SOLID.iml" />
       <module fileurl="file://$PROJECT_DIR$/Snakes_And_Ladders/Snakes_And_Ladders.iml" filepath="$PROJECT_DIR$/Snakes_And_Ladders/Snakes_And_Ladders.iml" />
       <module fileurl="file://$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" filepath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" />
